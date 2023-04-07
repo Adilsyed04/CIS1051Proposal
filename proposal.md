@@ -24,16 +24,16 @@ TODO, if applicable
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-I believe I will create an adventure game that will have atleast one good and one bad ending.
+I believe I will create an adventure game that will have atleast an ending for the player to enjoy.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-I believe I'll be able to create a finished game that will have multiple endings so players can have their own adventure.
+I believe I'll be able to create a finished game that will have one good or bad ending so players have to choose their choices carefully.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+I believe the best out come would be a finished game that has multiple ending so players can have their own adventure.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+For this project, I will look into other text-based adventure games to give me a better idea for mine. Then, I want to learn ways people make their game interesting and how they can create multiple endings. From there, I want to show my project to others so I can get feedback and know what I could do better. Some skills I would like to gain from this project is understanding python better and how to make projects. 
